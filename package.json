@@ -1,0 +1,24 @@
+{
+  "name": "web_based_file_coordinate_system",
+  "version": "1.0.0",
+  "description": "angular 1.5 with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuditKaushik/Angular1xTypeScript.git"
+  },
+  "author": "MuditKaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuditKaushik/Angular1xTypeScript/issues"
+  },
+  "homepage": "https://github.com/MuditKaushik/Angular1xTypeScript#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "^1.0.3",
+    "bootstrap": "^3.3.7"
+  }
+}
